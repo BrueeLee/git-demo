@@ -1,0 +1,26 @@
+2021-03-01 22:11:06.075 [main] INFO  [cn.learn.HouseApplication:50] - Starting HouseApplication on DESKTOP-VK0TQDE with PID 3820 (C:\Users\Administrator\Desktop\git\git_house\house\target\classes started by Administrator in C:\Users\Administrator\Desktop\git\git_house\house)
+2021-03-01 22:11:06.078 [main] INFO  [cn.learn.HouseApplication:646] - No active profile set, falling back to default profiles: default
+2021-03-01 22:11:08.142 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:90] - Tomcat initialized with port(s): 8080 (http)
+2021-03-01 22:11:08.160 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-01 22:11:08.168 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2021-03-01 22:11:08.169 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-03-01 22:11:08.353 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2021-03-01 22:11:08.353 [main] INFO  [org.springframework.web.context.ContextLoader:283] - Root WebApplicationContext: initialization completed in 2226 ms
+2021-03-01 22:11:08.571 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:985] - {dataSource-1} inited
+2021-03-01 22:11:09.146 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:171] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-01 22:11:09.511 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-01 22:11:09.544 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:202] - Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-01 22:11:09.547 [main] INFO  [cn.learn.HouseApplication:59] - Started HouseApplication in 3.997 seconds (JVM running for 5.538)
+2021-03-01 22:13:00.222 [main] INFO  [cn.learn.HouseApplication:50] - Starting HouseApplication on DESKTOP-VK0TQDE with PID 6772 (C:\Users\Administrator\Desktop\git\git_house\house\target\classes started by Administrator in C:\Users\Administrator\Desktop\git\git_house\house)
+2021-03-01 22:13:00.223 [main] INFO  [cn.learn.HouseApplication:646] - No active profile set, falling back to default profiles: default
+2021-03-01 22:13:01.697 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:90] - Tomcat initialized with port(s): 8080 (http)
+2021-03-01 22:13:04.067 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-01 22:13:04.945 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2021-03-01 22:13:04.946 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2021-03-01 22:13:05.185 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2021-03-01 22:13:05.185 [main] INFO  [org.springframework.web.context.ContextLoader:283] - Root WebApplicationContext: initialization completed in 4925 ms
+2021-03-01 22:13:05.424 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:985] - {dataSource-1} inited
+2021-03-01 22:13:05.911 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:171] - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-01 22:13:06.228 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2021-03-01 22:13:06.248 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:202] - Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-01 22:13:06.251 [main] INFO  [cn.learn.HouseApplication:59] - Started HouseApplication in 6.357 seconds (JVM running for 7.44)
